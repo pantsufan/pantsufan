@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, there 👋
 
 <p>
   <a href="https://twitter.com/kninja_28">
