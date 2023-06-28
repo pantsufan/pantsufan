@@ -16,15 +16,13 @@
 </br>
 </br>
 
-![Profile Views](https://gpvc.arturio.dev/pantsufan)
-
 ### About Me 🙋🏻‍♂️
 
 ```javascript
 name = "Joel Rodrigues";
-currently_working_on = "Mern Stack";
+currently_working_on = "Nothing";
 who_i_am = ["Developer", "Coder", "Video Editor", "Otaku", "Petrohead"];
-age = 20;
+age = 22;
 ```
 
 ### Languages and Tools: 👨‍💻
