@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
-<h3 align="center">A passionate web developer from India</h3>
 
 <p>
   <a href="https://twitter.com/kninja_28">
@@ -15,15 +14,6 @@
 </p>
 </br>
 </br>
-
-### About Me 🙋🏻‍♂️
-
-```javascript
-name = "Joel Rodrigues";
-currently_working_on = "Nothing";
-who_i_am = ["Developer", "Coder", "Video Editor", "Otaku", "Petrohead"];
-age = 22;
-```
 
 ### Languages and Tools: 👨‍💻
 
